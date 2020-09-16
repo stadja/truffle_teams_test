@@ -1,3 +1,3 @@
 # truffle_teams_test
 
-build 3
+build 4
